@@ -1,5 +1,5 @@
 
-Dashboard created in VueJs and Nodejs.
+Dashboard created in VueJs,Vuex and Nodejs.
 <br>
 to run:
 <br>
