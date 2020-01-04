@@ -1,12 +1,24 @@
+# dashboard
 
-Dashboard created in VueJs,Vuex and Nodejs.
-<br>
-to run:
-<br>
-1 - open the folder serve and running:<br>
-  <b>node app.js</b><br>
-2 - go back to root folder and run:<br>
-  <b>npm run serve</b> <br>
-3 - open the browser and type:<br>
-  <b>http://localhost:8080 or  http://youip:8080 </b><br>
-4 - go to register.
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
